@@ -20,17 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Tech Stack 🛠️
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/R-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Spacy-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Sklearn-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Scrapy-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NLTK-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AutoML-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 
