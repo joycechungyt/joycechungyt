@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/shail-mirpuri/
+[2]: https://www.linkedin.com/in/joycechungyt/
 
 ### Tech Stack 🛠️
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
@@ -39,10 +39,10 @@ You can click the Preview link to take a look at your changes.
 ### Github Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shailm99" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joycechungyt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailm99" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycechungyt" />
 </a>
 
 <!--
