@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @joycechungyt
-- 👀 I’m interested in ...all things data science and machine learning. 
-- 🌱 I’m currently learning ...more about computer vision and neural networks. 
-- 💞️ I’m looking to collaborate on ...any problems relating to predictive learning (machine learning) 
-- 📫 How to reach me ...contact me on Linkedin or send me an email : joycechungyt@gmail.com. 
+- 👀 I’m interested in all things data science and machine learning. 
+- 🌱 I’m currently learning more about computer vision and neural networks. 
+- 💞️ I’m looking to collaborate on any problems relating to predictive learning (machine learning) 
+- 📫 How to reach me: [![LinkedIn][2.2]][2] or Email (joycechungyt@gmail.com) or [my website](https://joycechungyt.github.io)
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 - 😄 Pronouns: ...She / Her 
 - ⚡ Fun fact: ...I enjoy travelling and have a scuba diving license! 
 
