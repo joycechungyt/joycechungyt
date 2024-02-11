@@ -8,8 +8,8 @@
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-- 😄 Pronouns: ...She / Her 
-- ⚡ Fun fact: ...I enjoy travelling and have a scuba diving license! 
+- 😄 Pronouns: She / Her 
+- ⚡ Fun fact: I enjoy travelling and have a scuba diving license! 
 
 <!---
 joycechungyt/joycechungyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
