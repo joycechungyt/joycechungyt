@@ -3,13 +3,12 @@
 - 🌱 I’m currently learning more about computer vision and neural networks. 
 - 💞️ I’m looking to collaborate on any problems relating to predictive learning (machine learning) 
 - 📫 How to reach me: [![LinkedIn][2.2]][2] or Email (joycechungyt@gmail.com) or [my website](https://joycechungyt.github.io)
-
+- 😄 Pronouns: She / Her 
+- ⚡ Fun fact: I enjoy travelling and have a scuba diving license!
+  
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-- 😄 Pronouns: She / Her 
-- ⚡ Fun fact: I enjoy travelling and have a scuba diving license! 
 
 <!---
 joycechungyt/joycechungyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
