@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/AutoML-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 
 
+###### _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+
 
 ### Github Stats 📈
 
