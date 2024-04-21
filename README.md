@@ -36,7 +36,11 @@ I love learning about data science and machine learning, in particular using my 
 - 💬 Ask me about my thoughts on computer vision, neural networks, problems in machine learning, or good places to scuba dive :)
 
 - 📫 How to reach me: [![LinkedIn][2.2]][2] or Email (joycechungyt@gmail.com) or [my website](https://joycechungyt.github.io)
-  
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/joycechungyt/
@@ -53,7 +57,5 @@ I love learning about data science and machine learning, in particular using my 
 ![](https://img.shields.io/badge/NLTK-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AutoML-informational?style=flat&logo=Logo1&logoColor=white&color=2bbc8a)
 
-
-###### _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 
