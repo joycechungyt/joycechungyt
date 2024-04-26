@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
-[<img align="right" width="400" alt="Joyce's's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joycechungyt&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552"/>](https://github.com/joycechungyt/)
+<img src="https://github-readme-stats.vercel.app/api?username=joycechungyt&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 
 <!--Mastodon verification-->
 <link rel="me" href="https://github.com/joycechungyt">
